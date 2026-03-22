@@ -3,6 +3,7 @@ const Title = ({title, subTitle}) => {
         <div className="section-title">
             <h2>
                 {title}
+                <br />
                 <span>{subTitle}</span>
             </h2>
         </div>
