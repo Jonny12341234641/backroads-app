@@ -41,7 +41,7 @@ export const services = [
 export const featured = [
     {
         id: 1,
-        image: "tour-1.jpeg",
+        image: tour1,
         date: "august 26th, 2020",
         title: "Tibet Adventure",
         info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",
@@ -51,7 +51,7 @@ export const featured = [
     },
     {
         id: 2,
-        image: "tour-2.jpeg",
+        image: tour2,
         date: "october 1th, 2020",
         title: "best of java",
         info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",
@@ -61,7 +61,7 @@ export const featured = [
     },
     {
         id: 3,
-        image: "tour-3.jpeg",
+        image: tour3,
         date: "september 15th, 2020",
         title: "explore hong kong",
         info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",
@@ -71,7 +71,7 @@ export const featured = [
     },
     {
         id: 4,
-        image: "tour-4.jpeg",
+        image: tour4,
         date: "december 5th, 2019",
         title: "kenya highlights",
         info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",

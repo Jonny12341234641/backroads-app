@@ -25,10 +25,10 @@ const Featured = () => {
                         </p>
                         <div className="tour-footer">
                             <p>
-                                <span><i className="fas fa-map"></i></span> china
+                                <span><i className="fas fa-map"></i></span> {location}
                             </p>
-                            <p>{duration}</p>
-                            <p>{cost}</p>
+                            <p>{duration} days</p>
+                            <p>from ${cost}</p>
                         </div>
                     </div>
                 </article>)
